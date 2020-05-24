@@ -1,6 +1,6 @@
 # CSS JavaScript Effects
 ---
-Here is a collection of *CSS* and *JavaScript* Effects, to see a code or go to live version just click on a correspondent link. All link hosted here on github
+Here is a collection of *CSS* and *JavaScript* Effects, to see a code or go to live version just click on a correspondent link. All links hosted here on GitHub.
 
 > ### Neon Light Button Animation Effects on Hover CSS Snake Border 2.
 ![Neon](https://images2.imgbox.com/c0/26/3UrNCazG_o.jpg)
@@ -9,4 +9,4 @@ Here is a collection of *CSS* and *JavaScript* Effects, to see a code or go to l
 | --- | --- | --- | --- | --- |
 | [Here](https://github.com/Victor-Nikliaiev/CSS-JavaScript-Effects/tree/master/Neon-Light-Button-Animation-Effects-on-Hover-CSS-Snake-Border-2) | [Here](https://victor-nikliaiev.github.io/CSS-JavaScript-Effects/Neon-Light-Button-Animation-Effects-on-Hover-CSS-Snake-Border-2/dist/)| ✅ | ✅ |  ❌ | 
 
-_Thanks for reading_ 
+> __Last update:__  _24.05.2020_
